@@ -25,7 +25,7 @@ SECRET_KEY = ')_@zcum@@$(3rv@t7*t$9s61g3w&(&1!bm+^8!vis#2=-_elq&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [bpparkinson.herokuapp.com,]
 
 
 # Application definition
