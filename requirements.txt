@@ -1,0 +1,10 @@
+Django==1.11.3
+djangorestframework==3.6.2
+django-oauth-toolkit
+django-cors-headers
+gunicorn==19.7.1
+lockfile==0.12.2
+olefile==0.44
+Pillow==4.2.1
+pytz==2017.2
+virtualenv==15.1.0
